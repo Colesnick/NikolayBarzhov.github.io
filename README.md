@@ -11,7 +11,7 @@
 
 # Диаграмма классов
 
-![none](https://github.com/Colesnick/NikolayBarzhov.github.io/blob/main/Lab1/l1p2.png)
+![none](https://github.com/Colesnick/NikolayBarzhov.github.io/blob/main/Lab1/lr2p4.png)
 
 # Диаграмма прецедентов
 
