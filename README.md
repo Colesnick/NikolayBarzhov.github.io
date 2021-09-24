@@ -5,6 +5,6 @@
 
 Сварка труб
 
-![none]()
+![none](https://github.com/Colesnick/NikolayBarzhov.github.io/blob/main/01_A0.png)
 
 Сварщик сваривает трубы согласно квоте из различных деталей, используя сварочный аппарат
